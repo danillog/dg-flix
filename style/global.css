@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Gowun Dodum';
+    src:  url('./fonts/GowunDodum-Regular.ttf') format('truetype');
+  }
+
+:root{
+    --vermelho: #e50914;
+    --preta: #141414;
+    --background: radial-gradient(circle, rgba(40,40,40,1) 10%, rgba(0,0,0,1) 100%);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
